@@ -516,7 +516,7 @@ final_model.compile(optimizer = "adam",
 
 # model fit 
 final_history = final_model.fit(X_train_dat, Y_train_dat, 
-                                epochs = 75, 
+                                epochs = 50, 
                                 batch_size = 32)
 
 # evaluate on test data 
