@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.10)  14 DEC 2025 09:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.10)  14 DEC 2025 12:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -783,21 +783,21 @@ No file Radial_Basis_Functions.toc.
 
 LaTeX Warning: No \author given.
 
-<./results/true_boundary.png, id=7, 482.2818pt x 311.4837pt>
+<./results/true_boundary.png, id=7, 482.2818pt x 311.0019pt>
 File: ./results/true_boundary.png Graphic file (type png)
 <use ./results/true_boundary.png>
 Package pdftex.def Info: ./results/true_boundary.png  used on input line 47.
-(pdftex.def)             Requested size: 288.0011pt x 186.01714pt.
+(pdftex.def)             Requested size: 288.0011pt x 185.7294pt.
 
 Overfull \hbox (12.0pt too wide) in paragraph at lines 50--54
  [][] 
  []
 
-<./results/samples.png, id=9, 482.2818pt x 311.4837pt>
+<./results/samples.png, id=9, 482.2818pt x 311.0019pt>
 File: ./results/samples.png Graphic file (type png)
 <use ./results/samples.png>
 Package pdftex.def Info: ./results/samples.png  used on input line 68.
-(pdftex.def)             Requested size: 288.0011pt x 186.01714pt.
+(pdftex.def)             Requested size: 288.0011pt x 185.7294pt.
 
 Overfull \hbox (12.0pt too wide) in paragraph at lines 71--75
  [][] 
@@ -940,11 +940,11 @@ File: ./results/model_metrics_accuracy.png Graphic file (type png)
 <use ./results/model_metrics_accuracy.png>
 Package pdftex.def Info: ./results/model_metrics_accuracy.png  used on input line 295.
 (pdftex.def)             Requested size: 288.0011pt x 190.3595pt.
-<./results/model_metrics_loss.png, id=90, 498.1812pt x 324.9741pt>
+<./results/model_metrics_loss.png, id=90, 491.6769pt x 324.9741pt>
 File: ./results/model_metrics_loss.png Graphic file (type png)
 <use ./results/model_metrics_loss.png>
 Package pdftex.def Info: ./results/model_metrics_loss.png  used on input line 296.
-(pdftex.def)             Requested size: 288.0011pt x 187.87518pt.
+(pdftex.def)             Requested size: 288.0011pt x 190.3595pt.
 
 Overfull \hbox (12.0pt too wide) in paragraph at lines 299--303
  [][] 
@@ -953,7 +953,8 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 299--303
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./results/final_boundary_detection.png, id=92, 605.8635pt x 380.622pt>
+[8]
+<./results/final_boundary_detection.png, id=101, 605.8635pt x 380.622pt>
 File: ./results/final_boundary_detection.png Graphic file (type png)
 <use ./results/final_boundary_detection.png>
 Package pdftex.def Info: ./results/final_boundary_detection.png  used on input line 310.
@@ -974,7 +975,7 @@ Package minitoc Info: I0009
 Package minitoc(hints) Info: I0019
 (minitoc(hints))             No hints have been written 
 (minitoc(hints))             in the Radial_Basis_Functions.log file..
-[8] [9 <./results/model_metrics_accuracy.png> <./results/model_metrics_loss.png>] [10 <./results/final_boundary_detection.png>]
+[9 <./results/model_metrics_accuracy.png> <./results/model_metrics_loss.png>] [10 <./results/final_boundary_detection.png>]
 
 ! LaTeX Error: \begin{subsection} on input line 207 ended by \end{document}.
 
@@ -1004,9 +1005,9 @@ Here is how much of TeX's memory you used:
  54029 multiletter control sequences out of 15000+600000
  635599 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 102i,10n,107p,1178b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,10n,107p,1178b,729s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/vinish/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Radial_Basis_Functions.pdf (10 pages, 7213614 bytes).
+Output written on Radial_Basis_Functions.pdf (10 pages, 7227061 bytes).
 PDF statistics:
  184 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams
